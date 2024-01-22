@@ -1,6 +1,6 @@
 {
   "name": "Moonseenrose Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/moonseenrose-tokenlist/master/assets/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/moonseenrose-tokenlist/master/assets/chains/bsc/0x2dF28d35EbcE1cb05aDe0e341e62052dC3d4bbC5/logo.png",
   "keywords": [
     "audited",
     "verified",
@@ -61,11 +61,19 @@
       "name": "EOS Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/moonseenrose-tokenlist/master/assets/chains/bsc/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x2dF28d35EbcE1cb05aDe0e341e62052dC3d4bbC5",
+      "symbol": "MSRT",
+      "name": "Moonseen Rose Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/moonseenrose-tokenlist/master/assets/chains/bsc/0x2dF28d35EbcE1cb05aDe0e341e62052dC3d4bbC5/logo.png"
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 1,
-    "patch": 0
+    "major": 2,
+    "minor": 2,
+    "patch": 1
   }
 }
