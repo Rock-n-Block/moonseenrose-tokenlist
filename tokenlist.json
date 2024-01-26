@@ -1,6 +1,6 @@
 {
   "name": "Moonseenrose Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/moonseenrose-tokenlist/master/assets/chains/bsc/0x2dF28d35EbcE1cb05aDe0e341e62052dC3d4bbC5/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/moonseenrose-tokenlist/master/assets/chains/bsc/0x6A8Fa0456ff9EcE3fb36CCa06887A2494826C5E6/logo.png",
   "keywords": [
     "audited",
     "verified",
@@ -64,11 +64,11 @@
     },
     {
       "chainId": 56,
-      "address": "0x2dF28d35EbcE1cb05aDe0e341e62052dC3d4bbC5",
+      "address": "0x6A8Fa0456ff9EcE3fb36CCa06887A2494826C5E6",
       "symbol": "MSRT",
-      "name": "Moonseen Rose Token",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/moonseenrose-tokenlist/master/assets/chains/bsc/0x2dF28d35EbcE1cb05aDe0e341e62052dC3d4bbC5/logo.png"
+      "name": "Moonseenrose Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/moonseenrose-tokenlist/master/assets/chains/bsc/0x6A8Fa0456ff9EcE3fb36CCa06887A2494826C5E6/logo.png"
     },
     {
       "chainId": 56,
@@ -80,8 +80,8 @@
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 3,
-    "patch": 1
+    "major": 4,
+    "minor": 4,
+    "patch": 2
   }
 }
